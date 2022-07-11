@@ -1,0 +1,2 @@
+# Retail-Store-Managment-System
+This project covers a database design with an E-R diagram of a retail store system. We have identified the majority of entities, their respective attributes, and their relationships. This database design has been designed keeping in mind the entities such as employees, departments, product, category, supplier, customer, etc., while also specifying their attributes and the corresponding relationships that they share. The dependency between distinct entities has also been demonstrated in the E-R diagram.
